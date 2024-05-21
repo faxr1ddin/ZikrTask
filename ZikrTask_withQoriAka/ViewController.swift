@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        view.backgroundColor = #colorLiteral(red: 0.8452333808, green: 0.8105810285, blue: 0.7374964356, alpha: 1)
     }
 
 
